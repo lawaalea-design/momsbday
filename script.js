@@ -14,18 +14,18 @@ const noMessages = [
     "Are you positive? 🤔",
     "Pookie please... 🥺",
     "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "I will be super sad... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
+    "Don't be a meanie ...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
     "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "go on, hit no... just once HAHA 👀",
+    "you're missing out silly",
+    "click no, I don't have any sayings in my pocket to convince you like you would"
 ]
 
 let yesTeasedCount = 0
