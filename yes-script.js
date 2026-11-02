@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
 
     // Autoplay music (works since user clicked Yes to get here)
     const music = document.getElementById('bg-music')
-    music.volume = 0.3
+    music.volume = 0.9
     music.play().catch(() => {})
     musicPlaying = true
     document.getElementById('music-toggle').textContent = '🔊'
